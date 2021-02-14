@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yegor256/firefox-buildpack/blob/master/LICENSE.txt)
 
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks)
-with Firefox 68.0.2.
+with Firefox firefox-85.0.tar.bz2.
 
 To install it, from the command line:
 
