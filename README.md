@@ -26,7 +26,14 @@ $ heroku buildpacks:add heroku-community/apt
 The content of your `Aptfile` should include this line:
 
 ```
-libcairo2 libcairo-gobject2 libxt6 libsm6 libice6 libgtk-3-0
+libcairo2
+libcairo-gobject2
+libxt6
+libsm6
+libice6
+libgtk-3-0
+libx11-xcb1
+libdbus-glib-1-2
 ```
 
 Should work.
